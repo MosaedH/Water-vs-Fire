@@ -14,9 +14,9 @@ There are tow players in the game
 
 * Special thanks:
 
-To Team Members 
-
 To Hail University
+
+To Team Members 
 
 * You can Play tha game from this URL : https://amfj.itch.io/water-vs-fire
 * Our Global Game Jam page : https://globalgamejam.org/2022/games/water-vs-fire-4
