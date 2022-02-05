@@ -18,5 +18,6 @@ To Hail University
 
 To Team Members 
 
-* You can Play tha game from this URL : https://amfj.itch.io/water-vs-fire
+* You can Play the game from this URL : https://amfj.itch.io/water-vs-fire
 * Our Global Game Jam page : https://globalgamejam.org/2022/games/water-vs-fire-4
+* Direct Download (Game files): https://ggj.s3.amazonaws.com/games/2022/01/436220/exec/zA9HM/Water%20vs%20Fire%20v2.zip 
