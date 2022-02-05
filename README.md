@@ -5,14 +5,14 @@ despite the simplicity of the game that we learned a lot during the development 
 * We used the (Unity) engine for development 
 * You can Play tha game from this URL : https://amfj.itch.io/water-vs-fire
 * Our Global Game Jam page : https://globalgamejam.org/2022/games/water-vs-fire-4
-
+* My role in the team: I worked on the Movement of the players and the Shooting and Health bar and animation, using C# language 
 * How to play a game:
 
 There are tow players in the game
 
-1- You can play with First Palyer useing the (W,D,A) for moveing, and (S) for shuting
+1- You can play with First Palyer useing the (W,D,A) for moveing, and (S) for shooting
 
-2- You can play with Scanend Palyer useing the "Arrow"(Up, Right, Left) for moveing, and (Down) for shuting
+2- You can play with Scanend Palyer useing the "Arrow"(Up, Right, Left) for moveing, and (Down) for shooting
 
 * Special thanks:
 
